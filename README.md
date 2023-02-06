@@ -1,2 +1,2 @@
 # pp2-21B030050
-That is repository for tsis works for programming principles 2
+That is my repository for tsis works for programming principles 2
